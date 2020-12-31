@@ -43,7 +43,7 @@ But spells are not always enough and we need some magic staffs or potions to get
 - Vue.js
 - Nest.js
 - Typescript
-- [Mercurius](https://github.com/novatrixtech/mercurius
+- [Mercurius](https://github.com/novatrixtech/mercurius)
 - React.js (🌱 I’m currently learning)
 
 ### About my jobs and passions 💕
