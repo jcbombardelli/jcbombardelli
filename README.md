@@ -3,41 +3,27 @@
 
 ![GitHub Logo](/banner.jpg)
 
-# About me 😄
+### About me 😄
 I may consider myself a software engineer (or a mage), but in reality I am just a guy who loves technology and how it can transform people's lives. I love projects with direct impact and with a high "mass transformational potential", that's why I hardly deny an opportunity for learning, not only with development, but also in other activities, such as design, product and digital business.
 
-### ⚡ Fun fact: I have a tattoo with source code:
-<div class="container">
-  <div class="item-left">
+⚡ Fun fact: I have a tattoo with source code:
+```c
+#include <technology>
+#include <blockchain>
 
-  ```c
-  #include <technology>
-  #include <blockchain>
-
-  bool main() {
-    bool success;
-    
-    while(!success) {
-      code();
-      workHard();
-      beNice();
-      success = improve(this);
-    }
-    
-    return success;
+bool main() {
+  bool success;
+  
+  while(!success) {
+    code();
+    workHard();
+    beNice();
+    success = improve(this);
   }
-  ```
-  </div>
-
-  <div class="item-right">
-    <a href="https://app.daily.dev/jcbombardelli">
-      <img src="https://api.daily.dev/devcards/12c47d3650394d0184b4b1e4f5d0ca67.png?r=d2g" width="200" alt="JC Bombardelli's Dev Card"/>
-      <figcaption class="caption">My Daily.dev Profile 🤓</figcaption>
-    </a>
-
-  </div>
-<div>
-
+  
+  return success;
+}
+```
 > before you try to fix my source code, understand it as poetry. OK!?
 
 
@@ -84,36 +70,4 @@ that's all, folks! Finally my numbers here on github.
   </a>
 </p>
 
-<style>
-* {
-  box-sizing: border-box;
-}
 
-.caption{
-  color: gray;
-  font-style: oblique;
-  text-align: center
-}
-
-.container {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.item-left {
-  padding: 10px;
-  flex: 75%;
-}
-
-.item-right {
-  padding: 10px;
-  flex: 25%;
-  align-content: center;
-}
-
-@media (max-width: 800px) {
-  .flex-item-right, .flex-item-left {
-    flex: 100%;
-  }
-}
-</style>
