@@ -53,9 +53,12 @@ This section is under construction (I want to find a cool template) but listing 
 - Chief Technology Office at A* Star Labs
 - Blockchain Engineer at [4CADIA Foundation](https://github.com/4cadia-foundation)
 - Blockchain Instructor at Blockchain Academy
-- Techlead Product Enginner Blockchain  at Mercado Bitcoin
-- Educational Specialist at Gama Academy
-- Techlead at Gama Academy
+- Techlead Product Enginner Blockchain  at [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
+- Educational Expert at [Gama Academy](https://gama.academy/)
+- Tech Lead at [Gama Academy](https://gama.academy/)
+- Blockchain Expert Advisor at [BlockForce](https://blockforce.in/en)
+- Community Engineer at [Cryptum](https://cryptum.io/)
+- Chief Technology Office at [Gama Academy](https://gama.academy/)
 
 
 that's all, folks! Finally my numbers here on github.
