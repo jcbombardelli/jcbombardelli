@@ -48,17 +48,18 @@ But spells are not always enough and we need some magic staffs or potions to get
 
 ### About my jobs and passions 💕
 This section is under construction (I want to find a cool template) but listing my latest experiences
-- Researcher and Developer at AEM - Precision Agriculture
-- Blockchain Engineer at A* Star Labs
-- Chief Technology Office at A* Star Labs
+- Researcher and Developer at [AEM - Precision Agriculture](https://www.agriculturaverion.com/)
+- Blockchain Engineer at [A* Star Labs](http://www.astarlabs.com/)
+- Chief Technology Office at [A* Star Labs](http://www.astarlabs.com/)
 - Blockchain Engineer at [4CADIA Foundation](https://github.com/4cadia-foundation)
-- Blockchain Instructor at Blockchain Academy
-- Techlead Product Enginner Blockchain  at [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
+- Blockchain Instructor at [Blockchain Academy](https://blockchainacademy.com.br/)
+- Technology Product Enginner Blockchain  at [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
 - Educational Expert at [Gama Academy](https://gama.academy/)
-- Tech Lead at [Gama Academy](https://gama.academy/)
+- Technical Leader at [Gama Academy](https://gama.academy/)
 - Blockchain Expert Advisor at [BlockForce](https://blockforce.in/en)
 - Community Engineer at [Cryptum](https://cryptum.io/)
 - Chief Technology Office at [Gama Academy](https://gama.academy/)
+- Technical Blockchain Leader at [BEE4](https://bee4.com.br/)
 
 
 that's all, folks! Finally my numbers here on github.
